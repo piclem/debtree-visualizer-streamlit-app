@@ -1,14 +1,3 @@
-"""
-import os
-import streamlit as st
-import subprocess
-
-# Title for the app
-st.title('Ubuntu Package Dependency Visualizer')
-
-# Input field for the package name
-package_name = st.text_input('Enter the package name you want to visualize:')
-"""
 import os
 import streamlit as st
 import subprocess
